@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://resources-gkhx8f.indowin.cfd/sitemap.xml
